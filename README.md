@@ -1,7 +1,7 @@
 Elite Achievers
 
 In the backend folder, first run server.py
-Then, in the project directory, run the command
+Then, in the project directory, run the command on powershell window
 
 npm i
 
