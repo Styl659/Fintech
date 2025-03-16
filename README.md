@@ -1,11 +1,11 @@
 Elite Achievers
 
 In the backend folder, first run server.py
-Then in the project directory, run the command
+Then, in the project directory, run the command
 
-npm I
+npm i
 
-This is to get the necessary packages installed. Then, put the command
+This is to get the necessary packages installed. Then, put the command.
 
 npm start
 
